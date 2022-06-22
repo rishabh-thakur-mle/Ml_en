@@ -5,4 +5,4 @@ geojson==2.5.0
 geopip==1.1
 geopy==1.21.0
 gmaps==0.9.0
-numpy==1.17.4
+numpy==1.22.0
